@@ -1,0 +1,27 @@
+.Colouredtab__container {
+  border-radius: 80px;
+  padding: 12px;
+  width: 100%;
+  cursor: pointer;
+}
+.Colouredtab__container > p {
+  color: white;
+  text-align: center;
+}
+.Colouredtab__container > svg {
+  width: 30px;
+  height: 30px;
+}
+
+@media screen and (max-width: 1150px) {
+  .Colouredtab__container {
+    border-radius: 70px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .Colouredtab__container {
+    border-radius: 60px;
+    flex-direction: column;
+    padding: 0.8em;
+  }
+}

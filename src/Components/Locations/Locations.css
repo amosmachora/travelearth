@@ -1,0 +1,20 @@
+.Locations__container {
+  width: 30%;
+}
+.Location__image img {
+  width: 100%;
+  border-radius: 20px;
+}
+.Location__text p {
+  font-size: 700;
+  font-size: 1.9rem;
+}
+.Location__text {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 650px) {
+  .Locations__container {
+    width: 90%;
+  }
+}

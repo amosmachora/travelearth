@@ -1,0 +1,139 @@
+.Customersay__container {
+  padding: 5%;
+  width: 100%;
+}
+.Customersay__right {
+  width: 50%;
+}
+
+.Customersay__right-testimonial {
+  justify-content: flex-start;
+}
+.Customersay__right-testimonial > :first-child {
+  width: 15%;
+  height: 1px;
+  background-color: #2c2d32;
+  margin-right: 10px;
+}
+.Customersay__right-testimonial > :not(:first-child) {
+  text-transform: uppercase;
+}
+
+.Customersay__right > :not(:first-child) {
+  margin: 20px 0px;
+}
+
+.Customersay__right-ptags p {
+  margin: 10px 0px;
+  max-width: 36ch;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+}
+
+.Customersay__pinkbtn {
+  border: 1px solid #ee5060;
+  width: 50%;
+  border-radius: 80px;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.Customersay__pinkbtn :hover {
+  transform: translateX(-10px);
+}
+
+.Customersay__pinkbtn p {
+  color: #ee5060;
+  margin-left: 50px;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.Customersay__pinkbtn > div {
+  margin-top: 3px;
+}
+.Customersay__left {
+  width: 50%;
+  position: relative;
+}
+.Customersay__left-img {
+  position: relative;
+  width: 80%;
+}
+.Customersay__left-img > :first-child {
+  height: 560px;
+  width: 100%;
+  object-fit: cover;
+}
+.Customersay__left-img > :nth-child(2) {
+  position: absolute;
+  right: -18%;
+  top: 30%;
+  cursor: pointer;
+}
+.Customersay__left-Bar {
+  position: absolute;
+  width: 90%;
+  height: 45%;
+  right: 0;
+  bottom: -20%;
+  z-index: 1;
+  border-radius: 15px;
+  overflow-x: hidden;
+  background-color: #fff;
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+}
+.Customersay__left-Bar > :first-child {
+  width: 40px;
+  height: 100%;
+  background-color: #ee5060;
+}
+.Customersay__left-Bar > :nth-child(2) {
+  width: 2px;
+  height: 50%;
+  background-color: #bdbdd1;
+  margin: 0px 30px;
+}
+.Customersay__left-text > :first-child {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+  color: #2c2d32;
+}
+.Customersay__left-review {
+  justify-content: space-between;
+  margin-top: 7%;
+  width: 97%;
+}
+.Customersay__left-review > :nth-child(1) {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2c2d32;
+}
+.Customersay__left-stars p {
+  color: #80819a;
+  font-size: 1.2rem;
+  margin-top: 5px;
+}
+
+@media screen and (max-width: 1150px) {
+  .Customersay__pinkbtn {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .Customersay__container {
+    flex-direction: column;
+  }
+  .Customersay__left {
+    width: 100%;
+  }
+  .Customersay__right {
+    width: 100%;
+  }
+  .Customersay__left-Bar {
+    width: 100%;
+  }
+  .Customersay__left-text > :first-child {
+    line-height: 1.5rem;
+  }
+}
