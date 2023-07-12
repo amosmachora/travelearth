@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/travelearth/static/css/main.641b6447.css",
+    "main.js": "/travelearth/static/js/main.4e5b359f.js",
+    "static/media/zipline.mp4": "/travelearth/static/media/zipline.562146657093dec22968.mp4",
+    "static/media/BurjKhalifa.png": "/travelearth/static/media/BurjKhalifa.5309a0be27343e98a098.png",
+    "static/media/Turkey.png": "/travelearth/static/media/Turkey.958b96398ea020c67a64.png",
+    "static/media/Pakistan.png": "/travelearth/static/media/Pakistan.69bcdd941c7b8bd07884.png",
+    "static/media/Beijing.png": "/travelearth/static/media/Beijing.9c31f65be1e6dc39e0bd.png",
+    "static/media/Bunchofpeople.png": "/travelearth/static/media/Bunchofpeople.33b937fd69f2a09f48fb.png",
+    "static/media/Plane.png": "/travelearth/static/media/Plane.dd28870c3770e016e940.png",
+    "static/media/UmbrellaTree.png": "/travelearth/static/media/UmbrellaTree.e5eea562a8a95e810ad9.png",
+    "static/media/World.png": "/travelearth/static/media/World.8f9ba36a9242ed3519d8.png",
+    "static/media/Smilingwoman.png": "/travelearth/static/media/Smilingwoman.0145448d4a9d70294a97.png",
+    "static/media/Bag.png": "/travelearth/static/media/Bag.e204bf0cea10c6c3e6ad.png",
+    "static/media/Phonepng.png": "/travelearth/static/media/Phonepng.638bc87567b137ef76f2.png",
+    "static/media/LadyCamera.png": "/travelearth/static/media/LadyCamera.0fd250aeeb2a239b2d69.png",
+    "static/media/Worldicon.svg": "/travelearth/static/media/Worldicon.7961ae9c098991348de7348e70cd6573.svg",
+    "static/media/Icon2.svg": "/travelearth/static/media/Icon2.0cf32c06ae615a2765ea8b4e7091e1e1.svg",
+    "static/media/Staricon.svg": "/travelearth/static/media/Staricon.fa6f10279f5cc28b22247b9c5ee8c7c3.svg",
+    "static/media/Likeicon.svg": "/travelearth/static/media/Likeicon.f86905ba6430972bb14500d2c6cf2692.svg",
+    "static/media/Icon1.svg": "/travelearth/static/media/Icon1.1ef03c11e9bfc8d7c69d9c2198a15ad6.svg",
+    "static/media/Stars.svg": "/travelearth/static/media/Stars.6507b06f085e33b6d2be3a10f468b334.svg",
+    "static/media/Imageswitch.svg": "/travelearth/static/media/Imageswitch.3ad050e38a6d69cef7901f5b687c5a14.svg",
+    "index.html": "/travelearth/index.html",
+    "static/media/Pinkarrow.svg": "/travelearth/static/media/Pinkarrow.ff3ab55a51788782f07d2c540bd92eb9.svg",
+    "main.641b6447.css.map": "/travelearth/static/css/main.641b6447.css.map",
+    "main.4e5b359f.js.map": "/travelearth/static/js/main.4e5b359f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641b6447.css",
+    "static/js/main.4e5b359f.js"
+  ]
+}
